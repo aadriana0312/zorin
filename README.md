@@ -75,7 +75,7 @@
 ###### se desejar fazer um tour pelo ZORIN, clique no botão, mas não é obrigatório
 
 ## 15° PASSO 
-![alt text](<imagem 18-1-1.png>)
+![alt text](<imagem 18-2.png>)
 
 ## já está pronto para utilizar
 
